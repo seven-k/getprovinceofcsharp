@@ -1,0 +1,8 @@
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\bin\Debug\getProvinceByCity.exe
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\bin\Debug\getProvinceByCity.pdb
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\obj\x86\Debug\getProvinceByCity.Properties.Resources.resources
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\obj\x86\Debug\getProvinceByCity.csproj.GenerateResource.Cache
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\obj\x86\Debug\getProvinceByCity.exe
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\obj\x86\Debug\getProvinceByCity.pdb
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\obj\x86\Debug\getProvinceByCity.mainForm.resources
+C:\Users\ycl\Desktop\Projects\CSharp\getProvinceByCity\getProvinceByCity\bin\Debug\citys.mdb
