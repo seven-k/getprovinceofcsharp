@@ -26,14 +26,13 @@ namespace getProvinceByCity
         private void btnStart_Click(object sender, EventArgs e)
         {
             if (lblFilePath.Text.Equals("文件路径")) {
-                MessageBox.Show("请先选择Excel文件！","警告");
+                MessageBox.Show("请先选择Excel文件！", "文件路径错误", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
 
         private void mainForm_Load(object sender, EventArgs e)
         {
-            ConnectionDb conn = new ConnectionDb();
-            conn.initDb(dataGridView1);
+            ConnectionDb.initDb(dataGridView1);
         }
 
        
